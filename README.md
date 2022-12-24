@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dearborn Adeyeni</h1>
-<h3 align="center">A 19 year old front-end web developer. Aspiring full-stack web developer cum blockchain developer.</h3>
+<h3 align="center">A 20 year old front-end web developer. Aspiring full-stack web developer cum blockchain developer.</h3>
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dearbornadeolu&label=Profile%20views&color=0e75b6&style=flat" alt="dearbornadeolu" /> </p>
 
