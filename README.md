@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Waver - a chat app](https://github.com/Dearbornadeolu/WAVER-CHAT-APP)
 
-- 🌱 I’m currently learning **Frameworks (reactjs)**
+- 🌱 I’m currently learning **Frameworks (reactjs)** **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dearbornadeolu](https://github.com/Dearbornadeolu)
 
