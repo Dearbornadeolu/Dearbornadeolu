@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/DearbornAdeyeni" target="blank"><img src="https://img.shields.io/twitter/follow/DearbornAdeyeni?logo=twitter&style=for-the-badge" alt="Dearborn Adeyeni" /></a> </p>
 
-- 🔭 I’m currently working on [Waver - a chat app](https://github.com/Dearbornadeolu/WAVER-CHAT-APP)
-
-- 🌱 I’m currently learning **Frameworks (reactjs),** **Typescript**
+- 🌱 I’m currently learning **Python** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dearbornadeolu](https://github.com/Dearbornadeolu)
 
-- 💬 Ask me about **Html5, javaScript, css and jquery**
+- 💬 Ask me about **Reactjs, NextJs, Tailwind, Python**
 
 - 📫 How to reach me **dearbornadeyeni@gmail.com**
 
